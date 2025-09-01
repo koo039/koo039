@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .
+
 -->
 ## 👋 Hi, I'm Islem Addouda
 
@@ -49,6 +50,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="40" height="40" alt="JWT"/>
+  <img src="https://www.svgrepo.com/show/342276/swagger.svg" width="40" height="40" alt="Swagger"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/thymeleaf-icon.png" width="40" height="40" alt="Thymeleaf"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40" alt="Tomcat"/>
 </p>
 
 ## 🌱 Interests
