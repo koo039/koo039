@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Islem Addouda
 
-🎓 CS Student | Backend Developer | Computer Networking **
+🎓 CS Student | Backend Developer | Computer Networking **  
 💻 Passionate about **Java, Spring Boot, C Programming, Networking, Linux, Security, Problem Solving, Microservices, Reactive Spring **  
-🌍 Based in Algeria | Open to **remote work**  
+🌍 Based in Algeria | Open to **remote work **  
 📚 Currently learning: Secure web development, Microservices
 
 ---
@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 
 ---
 
-📫 **Contact me**: [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/islem-addouda-180488268/)) | [Email](idouda34@gmail.com)
+📫 **Contact me**: [LinkedIn](https://www.linkedin.com/in/islem-addouda-180488268/) | [Email](mailto:idouda34@gmail.com)  
 
-⭐️ From [koo039](https://github.com/koo039)
+⭐️ From [koo039](https://github.com/koo039)  
+
 
